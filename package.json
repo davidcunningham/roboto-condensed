@@ -1,0 +1,26 @@
+{
+  "name": "roboto-condensed",
+  "version": "0.1",
+  "description": "Bower package providing the Roboto Condensed webfonts.",
+  "main": "css/roboto-condensed.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidcunningham/roboto-condensed.git"
+  },
+  "keywords": [
+    "roboto",
+    "condensed",
+    "webfont",
+    "font",
+    "fontface"
+  ],
+  "author": "David Cunningham",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/davidcunningham/roboto-condensed/issues"
+  },
+  "homepage": "https://github.com/davidcunningham/roboto-condensed"
+}
