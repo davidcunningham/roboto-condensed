@@ -3,6 +3,7 @@
   "description": "Bower package providing the Roboto Condensed webfonts.",
   "version": "0.2",
   "main": [
+    "./css/roboto-condensed.css",
     "./fonts/RobotoCondensed-Bold-webfont.eot",
     "./fonts/RobotoCondensed-Bold-webfont.svg",
     "./fonts/RobotoCondensed-Bold-webfont.ttf",
